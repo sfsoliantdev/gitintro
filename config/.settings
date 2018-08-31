@@ -1,0 +1,17 @@
+{
+    "projectName": "git-tutorial",
+    "username": "ugutierrez@gittutorial.com",
+    "id": "a6205880-ab93-11e8-ab4b-cb44e50e7565",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na57.salesforce.com",
+    "workspace": "/Users/ugutierrez/Documents/dreamforce-session/GitTutorial",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

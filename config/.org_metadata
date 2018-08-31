@@ -1,0 +1,135 @@
+[
+    {
+        "id": "ApexClass",
+        "type": {
+            "directoryName": "classes",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "cls",
+            "xmlName": "ApexClass"
+        },
+        "title": "ApexClass",
+        "xmlName": "ApexClass",
+        "text": "ApexClass",
+        "key": "ApexClass",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": [
+            {
+                "createdById": "0050b00000475c0AAA",
+                "createdByName": "Taylor Kingsbury",
+                "createdDate": "2018-08-12T21:16:17.000Z",
+                "fileName": "classes/HelloWorld.cls",
+                "fullName": "HelloWorld",
+                "id": "ApexClass.HelloWorld",
+                "lastModifiedById": "0050b00000475c0AAA",
+                "lastModifiedByName": "Taylor Kingsbury",
+                "lastModifiedDate": "2018-08-13T20:04:53.000Z",
+                "manageableState": "unmanaged",
+                "type": "ApexClass",
+                "leaf": true,
+                "title": "HelloWorld",
+                "checked": false,
+                "text": "HelloWorld",
+                "cls": "",
+                "level": 2,
+                "isFolder": false,
+                "children": [],
+                "select": false
+            }
+        ]
+    },
+    {
+        "id": "ApexComponent",
+        "type": {
+            "directoryName": "components",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "component",
+            "xmlName": "ApexComponent"
+        },
+        "title": "ApexComponent",
+        "xmlName": "ApexComponent",
+        "text": "ApexComponent",
+        "key": "ApexComponent",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": []
+    },
+    {
+        "id": "ApexPage",
+        "type": {
+            "directoryName": "pages",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "page",
+            "xmlName": "ApexPage"
+        },
+        "title": "ApexPage",
+        "xmlName": "ApexPage",
+        "text": "ApexPage",
+        "key": "ApexPage",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": []
+    },
+    {
+        "id": "ApexTrigger",
+        "type": {
+            "directoryName": "triggers",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "trigger",
+            "xmlName": "ApexTrigger"
+        },
+        "title": "ApexTrigger",
+        "xmlName": "ApexTrigger",
+        "text": "ApexTrigger",
+        "key": "ApexTrigger",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": []
+    },
+    {
+        "id": "StaticResource",
+        "type": {
+            "directoryName": "staticresources",
+            "inFolder": false,
+            "metaFile": true,
+            "suffix": "resource",
+            "xmlName": "StaticResource"
+        },
+        "title": "StaticResource",
+        "xmlName": "StaticResource",
+        "text": "StaticResource",
+        "key": "StaticResource",
+        "level": 1,
+        "hasChildTypes": false,
+        "isFolder": true,
+        "inFolder": false,
+        "cls": "folder",
+        "select": false,
+        "expanded": false,
+        "children": []
+    }
+]
