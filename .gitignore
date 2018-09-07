@@ -51,4 +51,4 @@ mm.log
 TestCache.xml
 
 TestsResultsCache.xml
-config/
+.local_store
