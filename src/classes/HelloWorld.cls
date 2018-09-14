@@ -2,5 +2,6 @@ public with sharing class HelloWorld {
     public HelloWorld() {
         System.debug('Hello Dreamforce! This is a git demo!');
         System.debug('Dreamforce takes SFO!');
+        System.debug('Hello DF 2018!');
     }
 }
